@@ -1,4 +1,5 @@
 // Aqui van los archivos que quiero que sean ignorados al subirlo a mi repositorio
 
 salida/*.txt
+
 node_modules/
